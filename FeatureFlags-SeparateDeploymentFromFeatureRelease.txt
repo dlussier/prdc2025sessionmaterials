@@ -1,0 +1,7 @@
+Rob Richardson posts his materials as websites, you can get the resources at the links below:
+
+Feature Flags: Separate Deployment from Feature Release
+
+Slides: https://robrich.org/slides/feature-flags/
+
+Code: https://github.com/robrich/feature-flags
